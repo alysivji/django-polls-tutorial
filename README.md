@@ -19,3 +19,5 @@ As long as your tests are sensibly arranged, they won’t become unmanageable. G
     * a separate test method for each set of conditions you want to test
     * test method names that describe their function
 ```
+
+[Integrate with coverage](https://docs.djangoproject.com/en/2.1/topics/testing/advanced/#integration-with-coverage-py)
